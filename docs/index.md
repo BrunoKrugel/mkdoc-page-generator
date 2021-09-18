@@ -1,6 +1,6 @@
 # Non vero quis magnam
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Quia vitae incidunt fugiat
 
@@ -13,3 +13,11 @@ Quia ut deleniti iste dolor sed laudantium alias. Est voluptatem eaque dolorem i
 Et quaerat eaque voluptas est. Molestias dolorem ratione cum et soluta amet esse blanditiis.
 
 Hic quod et unde. Cupiditate non perferendis laboriosam beatae qui ducimus expedita assumenda. Mollitia ad repellendus cupiditate recusandae.
+
+| Method      | Description                          |
+| ----------- | ------------------------------------ |
+| `GET`       | :material-check:     Fetch resource  |
+| `PUT`       | :material-check-all: Update resource |
+| `DELETE`    | :material-close:     Delete resource |
+
+[^1]: Lorem ipsum dolor sit amet, consectetur adipiscing elit.

@@ -4,7 +4,8 @@ nav:
     - index.md
     - Lorem: sub-menu-lorem/index.md
     - Ipsum: sub-menu-ipsum/index.md
-
+markdown_extensions:
+  - footnotes
 theme:
   name: material
   palette:
